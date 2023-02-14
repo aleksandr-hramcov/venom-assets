@@ -16,55 +16,22 @@
   "tokens": [
     {
       "name": "Wrapped Venom",
-      "chainId": 1000,
+      "chainId": 1,
       "symbol": "wVENOM",
       "decimals": 9,
-      "address": "0:ff1cdfccfce38d8bc87d77380b70d5c984da36245991fc4820a917085e46a9d0",
+      "address": "0:2c3a2ff6443af741ce653ae4ef2c85c2d52a9df84944bbe14d702c3131da3f14",
       "logoURI": "https://raw.githubusercontent.com/BVFDT/venom-assets/master/icons/wVENOM/logo.svg",
       "version": 5,
       "verified": true,
       "vendor": "venom"
     },
     {
-      "name": "Tether",
-      "chainId": 1000,
+      "name": "Tether USD",
+      "chainId": 1,
       "symbol": "USDT",
       "decimals": 6,
-      "address": "0:a33ae302310410fa8b01ae1bdcdd87d88149b0ba43ea34654bc33a4a7eedaa5d",
+      "address": "0:20470e6a6e33aa696263b5702608d69e3317c23bf20c2f921b38d6588c555603",
       "logoURI": "https://raw.githubusercontent.com/BVFDT/venom-assets/master/icons/USDT/logo.svg",
-      "version": 5,
-      "verified": true,
-      "vendor": "venom"
-    },
-    {
-      "name": "USD Coin",
-      "chainId": 1000,
-      "symbol": "USDC",
-      "decimals": 6,
-      "address": "0:b02584bf85d660ed019dc00cf293b66cca112b16f8f3648dedda41741f8b1675",
-      "logoURI": "https://raw.githubusercontent.com/BVFDT/venom-assets/master/icons/USDC/logo.svg",
-      "version": 5,
-      "verified": true,
-      "vendor": "venom"
-    },
-    {
-      "name": "Wrapped BTC",
-      "chainId": 1000,
-      "symbol": "WBTC",
-      "decimals": 8,
-      "address": "0:74c6b0cdf427f32ea9977dfcc6f01f3f5e734fc0f05641b7d789a5f7a123f698",
-      "logoURI": "https://raw.githubusercontent.com/BVFDT/venom-assets/master/icons/WBTC/logo.svg",
-      "version": 5,
-      "verified": true,
-      "vendor": "venom"
-    },
-    {
-      "name": "Wrapped Ether",
-      "chainId": 1000,
-      "symbol": "WETH",
-      "decimals": 18,
-      "address": "0:576011a5bad38c045b3d91f6d5db1c6f7dcd20f7601a921b521d84158945d3f8",
-      "logoURI": "https://raw.githubusercontent.com/BVFDT/venom-assets/master/icons/WETH/logo.svg",
       "version": 5,
       "verified": true,
       "vendor": "venom"
