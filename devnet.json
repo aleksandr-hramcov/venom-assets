@@ -12,5 +12,42 @@
     "tokens"
   ],
   "timestamp": "2023-05-08T00:00:00.000Z",
-  "tokens": []
+  "tokens": [
+    {
+      "name": "Foo",
+      "chainId": 1002,
+      "symbol": "FOO",
+      "decimals": 18,
+      "address": "0:8a7a6e3d7a7b6dfcce8d9d409f0f14cea604d8550d3570125701f97d318dc00c",
+      "version": 5,
+      "verified": false
+    },
+    {
+      "name": "Bar",
+      "chainId": 1002,
+      "symbol": "BAR",
+      "decimals": 18,
+      "address": "0:933fbe9274ba9a245d867cc8c04194fcdc973742eeb7c7fbf89592d3e28bffbe",
+      "version": 5,
+      "verified": false
+    },
+    {
+      "name": "Qwe",
+      "chainId": 1002,
+      "symbol": "QWE",
+      "decimals": 18,
+      "address": "0:abeeed005cb747fd6f2343d1764abcb634b634f7597f8747ae29a4e2c5e1e2e0",
+      "version": 5,
+      "verified": false
+    },
+    {
+      "name": "WVENOM",
+      "chainId": 1002,
+      "symbol": "WVENOM",
+      "decimals": 9,
+      "address": "0:6bf25d251adabf1268a8870ad1b45d46fcf782ef9f1bfa7c16032484d3e54ac7",
+      "version": 5,
+      "verified": false
+    }
+  ]
 }
