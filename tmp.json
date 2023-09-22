@@ -1,0 +1,39 @@
+{
+  "$schema": "https://raw.githubusercontent.com/broxus/ton-assets/master/schemas/manifest.json",
+  "name": "TIP3 Tokens List",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "keywords": [
+    "venom",
+    "tip3",
+    "tokens"
+  ],
+  "timestamp": "2023-09-22T22:32:51.633Z",
+  "tokens": [
+    {
+      "name": "Wrapped Venom",
+      "chainId": 1,
+      "symbol": "WVENOM",
+      "decimals": 9,
+      "address": "0:3b0ad3308e400e2efcb22bef69750f4fc2b8ee38549c4930d6174744e37fe736",
+      "logoURI": "https://raw.githubusercontent.com/BVFDT/venom-assets/master/icons/wVENOM/logo.svg",
+      "version": 5,
+      "verified": true,
+      "vendor": "venom"
+    },
+    {
+      "name": "Tether USD",
+      "chainId": 1,
+      "symbol": "USDT",
+      "decimals": 6,
+      "address": "0:d32ba659c7582f8a6b65f0632d310320dccdef618cd8dd97f1c6386fc1a1a178",
+      "logoURI": "https://raw.githubusercontent.com/BVFDT/venom-assets/master/icons/USDT/logo.svg",
+      "version": 5,
+      "verified": true,
+      "vendor": "venom"
+    }
+  ]
+}
